@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Qabas
+
+  Created by Arwa on 11/08/1443 AH.
+  
+*/
+
+//Home:
+
+"Hello1" = "Welcome to";
+
+"Hello2" = "Qabas";
+
+"Hello3" = "FIND BOOKS FOR ANY QUOTE";
+
+"Continue" = "Continue";
+
+
+//Discover:
+
+"Tilte" = "Discover";
+
+"Top 5" = "Top 5 in Saudi Arabia";
+
+"Tap to Qabas" = "Tap to Qabas";
+
+"Choose your favorite" = "Choose your favorite search type";
+
+
+//sheet
+
+
+"History" = "My Last Discover";
+
+// books
+
+"book1" = "Crooked house";
+"Author1" = "Agatha Christie";
+
+"book2" = "It End with us";
+"Author2" = "Collen Hoover";
+
+
+"book3" = "The Secret Of Chimneys";
+"Author3" = "Agatha Christie ";
+
+
+"book4" = "White Nights";
+"Author4" = "F.Mikhailovich";
+
+
+
+"book5" = "Crime & Punishment ";
+"Author5" = "F.Mikhailovich";
+
+
+
+
+"List" = "My List";
+"See all" = "See All";
+
+
+
+"book6" = "T.Undearable";
+"Author6" = "Milan Kundera";
+
+
+"book7" = "God Of The Sun";
+"Author7" = "Kimberly Loth";
+
+"Book 8" = "Identity";
+"Author8" = "Milan Kundera";
+
+"book9" = "The Joke";
+"Author9" = "Milan Kundera";
+
+
+"book10" = "1 Q84";
+"Author10" = "Haruki Murakami";
+
+
+
+"Pick" = "Picks For You";
+
+"Book11" = "Live T.momen";
+"Author11" = "Helen eksli";
+
+"Book12" = "Already Gone";
+"Author12" = "Agatha Christie";
+
+"book13" = "Hallowe’en";
+"author13" = "Agatha Christie";
+
+"book14" = "Violet Bent";
+"Author14" = "Lana Del Rey";
+
+"book15" = "T. Strength";
+"author15" = "Bianca Sparacino";
+
+
